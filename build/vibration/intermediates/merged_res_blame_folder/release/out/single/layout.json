@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.benjaminabel.vibration-merged_res-11:/layout/notification_template_part_time.xml",
+        "source": "com.benjaminabel.vibration-core-1.6.0-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.benjaminabel.vibration-merged_res-11:/layout/custom_dialog.xml",
+        "source": "com.benjaminabel.vibration-core-1.6.0-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.benjaminabel.vibration-merged_res-11:/layout/notification_action_tombstone.xml",
+        "source": "com.benjaminabel.vibration-core-1.6.0-2:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.benjaminabel.vibration-merged_res-11:/layout/notification_action.xml",
+        "source": "com.benjaminabel.vibration-core-1.6.0-2:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.benjaminabel.vibration-merged_res-11:/layout/notification_template_icon_group.xml",
+        "source": "com.benjaminabel.vibration-core-1.6.0-2:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.benjaminabel.vibration-merged_res-11:/layout/notification_template_part_chronometer.xml",
+        "source": "com.benjaminabel.vibration-core-1.6.0-2:/layout/notification_template_part_chronometer.xml"
+    }
+]

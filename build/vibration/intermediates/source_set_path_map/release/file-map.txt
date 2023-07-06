@@ -1,0 +1,13 @@
+com.benjaminabel.vibration-jetified-window-1.0.0-beta04-0 C:\Users\Sagar Rana\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.benjaminabel.vibration-jetified-annotation-experimental-1.1.0-1 C:\Users\Sagar Rana\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.benjaminabel.vibration-core-1.6.0-2 C:\Users\Sagar Rana\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.benjaminabel.vibration-jetified-window-java-1.0.0-beta04-3 C:\Users\Sagar Rana\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.benjaminabel.vibration-main-4 C:\Users\Sagar Rana\AppData\Local\Pub\Cache\hosted\pub.dev\vibration-1.8.1\android\src\main\res
+com.benjaminabel.vibration-release-5 C:\Users\Sagar Rana\AppData\Local\Pub\Cache\hosted\pub.dev\vibration-1.8.1\android\src\release\res
+com.benjaminabel.vibration-packaged_res-6 D:\Work\Flutter\expense_tracker\build\device_info_plus\intermediates\packaged_res\release
+com.benjaminabel.vibration-pngs-7 D:\Work\Flutter\expense_tracker\build\vibration\generated\res\pngs\release
+com.benjaminabel.vibration-resValues-8 D:\Work\Flutter\expense_tracker\build\vibration\generated\res\resValues\release
+com.benjaminabel.vibration-rs-9 D:\Work\Flutter\expense_tracker\build\vibration\generated\res\rs\release
+com.benjaminabel.vibration-mergeReleaseResources-10 D:\Work\Flutter\expense_tracker\build\vibration\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.benjaminabel.vibration-mergeReleaseResources-11 D:\Work\Flutter\expense_tracker\build\vibration\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.benjaminabel.vibration-merged_res-12 D:\Work\Flutter\expense_tracker\build\vibration\intermediates\merged_res\release

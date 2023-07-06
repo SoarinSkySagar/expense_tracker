@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.benjaminabel.vibration-merged_res-11:/drawable/notification_icon_background.xml",
+        "source": "com.benjaminabel.vibration-core-1.6.0-2:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.benjaminabel.vibration-merged_res-11:/drawable/notification_tile_bg.xml",
+        "source": "com.benjaminabel.vibration-core-1.6.0-2:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.benjaminabel.vibration-merged_res-11:/drawable/notification_bg_low.xml",
+        "source": "com.benjaminabel.vibration-core-1.6.0-2:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.benjaminabel.vibration-merged_res-11:/drawable/notification_bg.xml",
+        "source": "com.benjaminabel.vibration-core-1.6.0-2:/drawable/notification_bg.xml"
+    }
+]
